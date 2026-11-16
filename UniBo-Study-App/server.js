@@ -106,7 +106,7 @@ const server = http.createServer((req, res) => {
   }
 
   // API Endpoints
-  if (pathname === '/api/ping') {
+  if (pathname === '/api/ping' || pathname === '/healthz' || pathname === '/health') {
     res.writeHead(200, { 'Content-Type': 'application/json' });
     res.end(JSON.stringify({ status: 'ok', app: 'UniBo AI Master Tactical Glass', version: 4 }));
     return;
