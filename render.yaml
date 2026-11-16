@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: unibo-ai-master
+    env: node
+    plan: free
+    buildCommand: ""
+    startCommand: node UniBo-Study-App/server.js
+    envVars:
+      - key: PORT
+        value: 3000

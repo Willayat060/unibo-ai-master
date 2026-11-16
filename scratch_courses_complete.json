@@ -1,0 +1,1538 @@
+[
+  {
+    "id": "faikr_m1",
+    "title": "Fundamentals of AI & KR (FAIKR) \u2013 Module 1: Search & Game AI",
+    "path": "Fundamentals of Artificial Intelligence and Knowledge Representation",
+    "priority": 1,
+    "nearestExam": "Dec 21, 2026 (FAIKR Written Exam)",
+    "cfu": 6,
+    "category": "Exam Core",
+    "modules": [
+      {
+        "name": "00 - Course Info & Exams",
+        "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/00 - Course Info & Exams",
+        "files": [
+          {
+            "name": "0-CoursePresentation.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/00 - Course Info & Exams/0-CoursePresentation.pdf",
+            "type": "pdf",
+            "pageCount": 12,
+            "lineCount": 0
+          },
+          {
+            "name": "Exam.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/00 - Course Info & Exams/Exam.pdf",
+            "type": "pdf",
+            "pageCount": 9,
+            "lineCount": 0
+          }
+        ],
+        "totalPages": 21,
+        "totalLines": 0
+      },
+      {
+        "name": "01 - Module 1 (Search, Games & Constraints)",
+        "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)",
+        "files": [
+          {
+            "name": "1-IntroCorsoMichelaFirstPart.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/1-IntroCorsoMichelaFirstPart.pdf",
+            "type": "pdf",
+            "pageCount": 68,
+            "lineCount": 0
+          },
+          {
+            "name": "10-exerciseGames.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/10-exerciseGames.pdf",
+            "type": "pdf",
+            "pageCount": 31,
+            "lineCount": 0
+          },
+          {
+            "name": "11-Planning.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/11-Planning.pdf",
+            "type": "pdf",
+            "pageCount": 104,
+            "lineCount": 0
+          },
+          {
+            "name": "12-GraphPlan.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/12-GraphPlan.pdf",
+            "type": "pdf",
+            "pageCount": 36,
+            "lineCount": 0
+          },
+          {
+            "name": "13-Constraints.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/13-Constraints.pdf",
+            "type": "pdf",
+            "pageCount": 80,
+            "lineCount": 0
+          },
+          {
+            "name": "2-ArtificialIntelligenceApplications.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/2-ArtificialIntelligenceApplications.pdf",
+            "type": "pdf",
+            "pageCount": 42,
+            "lineCount": 0
+          },
+          {
+            "name": "3-Trustworthy.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/3-Trustworthy.pdf",
+            "type": "pdf",
+            "pageCount": 48,
+            "lineCount": 0
+          },
+          {
+            "name": "4-StriRicNonInf.it.en.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/4-StriRicNonInf.it.en.pdf",
+            "type": "pdf",
+            "pageCount": 59,
+            "lineCount": 0
+          },
+          {
+            "name": "5-StriRicInf.it.en.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/5-StriRicInf.it.en.pdf",
+            "type": "pdf",
+            "pageCount": 41,
+            "lineCount": 0
+          },
+          {
+            "name": "6-ExercisesStrategies.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/6-ExercisesStrategies.pdf",
+            "type": "pdf",
+            "pageCount": 27,
+            "lineCount": 0
+          },
+          {
+            "name": "7-LocalSearchEng.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/7-LocalSearchEng.pdf",
+            "type": "pdf",
+            "pageCount": 42,
+            "lineCount": 0
+          },
+          {
+            "name": "8-SwarmIntelligence.it.en.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/8-SwarmIntelligence.it.en.pdf",
+            "type": "pdf",
+            "pageCount": 39,
+            "lineCount": 0
+          },
+          {
+            "name": "9-Games.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/9-Games.pdf",
+            "type": "pdf",
+            "pageCount": 41,
+            "lineCount": 0
+          }
+        ],
+        "totalPages": 658,
+        "totalLines": 0
+      },
+      {
+        "name": "04 - Challenges & Labs",
+        "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/04 - Challenges & Labs",
+        "files": [
+          {
+            "name": "[LAB-Search]-Requirements-python.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/04 - Challenges & Labs/[LAB-Search]-Requirements-python.pdf",
+            "type": "pdf",
+            "pageCount": 1,
+            "lineCount": 0
+          },
+          {
+            "name": "NAOPlanningChallenge2627.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/04 - Challenges & Labs/NAOPlanningChallenge2627.pdf",
+            "type": "pdf",
+            "pageCount": 23,
+            "lineCount": 0
+          },
+          {
+            "name": "PresentazioneTablutChallenge2627.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/04 - Challenges & Labs/PresentazioneTablutChallenge2627.pdf",
+            "type": "pdf",
+            "pageCount": 28,
+            "lineCount": 0
+          }
+        ],
+        "totalPages": 52,
+        "totalLines": 0
+      }
+    ],
+    "totalFiles": 18,
+    "totalPages": 731,
+    "totalLines": 0
+  },
+  {
+    "id": "mldm",
+    "title": "Machine Learning and Data Mining (MLDM)",
+    "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining",
+    "priority": 2,
+    "nearestExam": "Jan 12, 2027 (Oral & Project)",
+    "cfu": 12,
+    "category": "Core & Project",
+    "modules": [
+      {
+        "name": "00 - Course Info & Syllabus",
+        "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/00 - Course Info & Syllabus",
+        "files": [
+          {
+            "name": "MLDM-2025-2026-Syllabus.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/00 - Course Info & Syllabus/MLDM-2025-2026-Syllabus.pdf",
+            "type": "pdf",
+            "pageCount": 1,
+            "lineCount": 0
+          }
+        ],
+        "totalPages": 1,
+        "totalLines": 0
+      },
+      {
+        "name": "01 - Workshops & Case Studies",
+        "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/01 - Workshops & Case Studies",
+        "files": [
+          {
+            "name": "05-NordicMart-voices from inside the company.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/01 - Workshops & Case Studies/05-NordicMart-voices from inside the company.pdf",
+            "type": "pdf",
+            "pageCount": 18,
+            "lineCount": 0
+          },
+          {
+            "name": "05-workshop.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/01 - Workshops & Case Studies/05-workshop.pdf",
+            "type": "pdf",
+            "pageCount": 9,
+            "lineCount": 0
+          }
+        ],
+        "totalPages": 27,
+        "totalLines": 0
+      },
+      {
+        "name": "02 - Data Mining Lectures",
+        "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/02 - Data Mining Lectures",
+        "files": [
+          {
+            "name": "00-MLDM-Intro.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/02 - Data Mining Lectures/00-MLDM-Intro.pdf",
+            "type": "pdf",
+            "pageCount": 75,
+            "lineCount": 0
+          },
+          {
+            "name": "01-DM-intro.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/02 - Data Mining Lectures/01-DM-intro.pdf",
+            "type": "pdf",
+            "pageCount": 34,
+            "lineCount": 0
+          },
+          {
+            "name": "02-DM-data-warehouse-nordicmart-cube.html",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/02 - Data Mining Lectures/02-DM-data-warehouse-nordicmart-cube.html",
+            "type": "html",
+            "pageCount": 0,
+            "lineCount": 539
+          },
+          {
+            "name": "02-DM-data-warehouse.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/02 - Data Mining Lectures/02-DM-data-warehouse.pdf",
+            "type": "pdf",
+            "pageCount": 28,
+            "lineCount": 0
+          },
+          {
+            "name": "02-wooclap-star-schema-dimensions.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/02 - Data Mining Lectures/02-wooclap-star-schema-dimensions.pdf",
+            "type": "pdf",
+            "pageCount": 1,
+            "lineCount": 0
+          },
+          {
+            "name": "02-wooclap-star-schema-grain.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/02 - Data Mining Lectures/02-wooclap-star-schema-grain.pdf",
+            "type": "pdf",
+            "pageCount": 1,
+            "lineCount": 0
+          },
+          {
+            "name": "02-wooclap-star-schema-measure.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/02 - Data Mining Lectures/02-wooclap-star-schema-measure.pdf",
+            "type": "pdf",
+            "pageCount": 1,
+            "lineCount": 0
+          },
+          {
+            "name": "03-DM-data-lake-nordicmart-lake.html",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/02 - Data Mining Lectures/03-DM-data-lake-nordicmart-lake.html",
+            "type": "html",
+            "pageCount": 0,
+            "lineCount": 525
+          },
+          {
+            "name": "03-DM-data-lake.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/02 - Data Mining Lectures/03-DM-data-lake.pdf",
+            "type": "pdf",
+            "pageCount": 33,
+            "lineCount": 0
+          },
+          {
+            "name": "04-DM-crisp-dm.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/02 - Data Mining Lectures/04-DM-crisp-dm.pdf",
+            "type": "pdf",
+            "pageCount": 32,
+            "lineCount": 0
+          },
+          {
+            "name": "06-ML-intro.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/02 - Data Mining Lectures/06-ML-intro.pdf",
+            "type": "pdf",
+            "pageCount": 58,
+            "lineCount": 0
+          }
+        ],
+        "totalPages": 263,
+        "totalLines": 1064
+      },
+      {
+        "name": "03 - Machine Learning Lectures",
+        "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/03 - Machine Learning Lectures",
+        "files": [
+          {
+            "name": "06-ML-a-intro.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/03 - Machine Learning Lectures/06-ML-a-intro.pdf",
+            "type": "pdf",
+            "pageCount": 61,
+            "lineCount": 0
+          },
+          {
+            "name": "06-ML-b-eda.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/03 - Machine Learning Lectures/06-ML-b-eda.pdf",
+            "type": "pdf",
+            "pageCount": 74,
+            "lineCount": 0
+          },
+          {
+            "name": "07-ML-notebooks-toolchain.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/03 - Machine Learning Lectures/07-ML-notebooks-toolchain.pdf",
+            "type": "pdf",
+            "pageCount": 28,
+            "lineCount": 0
+          },
+          {
+            "name": "08-ML-classification-validation.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/03 - Machine Learning Lectures/08-ML-classification-validation.pdf",
+            "type": "pdf",
+            "pageCount": 69,
+            "lineCount": 0
+          },
+          {
+            "name": "09-ML-decision-trees.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/03 - Machine Learning Lectures/09-ML-decision-trees.pdf",
+            "type": "pdf",
+            "pageCount": 62,
+            "lineCount": 0
+          },
+          {
+            "name": "10a-ML-model-selection.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/03 - Machine Learning Lectures/10a-ML-model-selection.pdf",
+            "type": "pdf",
+            "pageCount": 53,
+            "lineCount": 0
+          },
+          {
+            "name": "10b-ML-performance-measures.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/03 - Machine Learning Lectures/10b-ML-performance-measures.pdf",
+            "type": "pdf",
+            "pageCount": 52,
+            "lineCount": 0
+          },
+          {
+            "name": "11-other-classifiers.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/03 - Machine Learning Lectures/11-other-classifiers.pdf",
+            "type": "pdf",
+            "pageCount": 53,
+            "lineCount": 0
+          },
+          {
+            "name": "12-svm.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/03 - Machine Learning Lectures/12-svm.pdf",
+            "type": "pdf",
+            "pageCount": 43,
+            "lineCount": 0
+          },
+          {
+            "name": "13-ensembles.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/03 - Machine Learning Lectures/13-ensembles.pdf",
+            "type": "pdf",
+            "pageCount": 52,
+            "lineCount": 0
+          }
+        ],
+        "totalPages": 547,
+        "totalLines": 0
+      },
+      {
+        "name": "04 - Background Readings & Resources",
+        "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/04 - Background Readings & Resources",
+        "files": [
+          {
+            "name": "random.ipynb",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/04 - Background Readings & Resources/random.ipynb",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 455
+          },
+          {
+            "name": "random_number_generation.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/04 - Background Readings & Resources/random_number_generation.pdf",
+            "type": "pdf",
+            "pageCount": 15,
+            "lineCount": 0
+          },
+          {
+            "name": "Tan-Steinbach-Kumar-DataMining-appendices.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/04 - Background Readings & Resources/Tan-Steinbach-Kumar-DataMining-appendices.pdf",
+            "type": "pdf",
+            "pageCount": 74,
+            "lineCount": 0
+          },
+          {
+            "name": "Tan-Steinbach-Kumar-DataMining-data_exploration.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/04 - Background Readings & Resources/Tan-Steinbach-Kumar-DataMining-data_exploration.pdf",
+            "type": "pdf",
+            "pageCount": 48,
+            "lineCount": 0
+          },
+          {
+            "name": "Tidy-data-wickham.pdf",
+            "path": "Machine Learning and Data Mining M - Machine Learning and Data Mining/04 - Background Readings & Resources/Tidy-data-wickham.pdf",
+            "type": "pdf",
+            "pageCount": 23,
+            "lineCount": 0
+          }
+        ],
+        "totalPages": 160,
+        "totalLines": 455
+      }
+    ],
+    "totalFiles": 29,
+    "totalPages": 998,
+    "totalLines": 1519
+  },
+  {
+    "id": "faikr_m23",
+    "title": "Fundamentals of AI & KR (FAIKR) \u2013 Modules 2 & 3: Logic & Bayesian Networks",
+    "path": "Fundamentals of Artificial Intelligence and Knowledge Representation",
+    "priority": 3,
+    "nearestExam": "Jan 25, 2027 (Oral / Project)",
+    "cfu": 6,
+    "category": "Exam Core",
+    "modules": [
+      {
+        "name": "02 - Module 2 (Logic & Deductive Planning)",
+        "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/02 - Module 2 (Logic & Deductive Planning)",
+        "files": [
+          {
+            "name": "1-LogicCommonLanguage.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/02 - Module 2 (Logic & Deductive Planning)/1-LogicCommonLanguage.pdf",
+            "type": "pdf",
+            "pageCount": 39,
+            "lineCount": 0
+          },
+          {
+            "name": "2-FirstOrderLogic.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/02 - Module 2 (Logic & Deductive Planning)/2-FirstOrderLogic.pdf",
+            "type": "pdf",
+            "pageCount": 31,
+            "lineCount": 0
+          },
+          {
+            "name": "3-Prolog.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/02 - Module 2 (Logic & Deductive Planning)/3-Prolog.pdf",
+            "type": "pdf",
+            "pageCount": 92,
+            "lineCount": 0
+          },
+          {
+            "name": "7 - TimeDeductivePlanning.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/02 - Module 2 (Logic & Deductive Planning)/7 - TimeDeductivePlanning.pdf",
+            "type": "pdf",
+            "pageCount": 49,
+            "lineCount": 0
+          },
+          {
+            "name": "Deductive planning.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/02 - Module 2 (Logic & Deductive Planning)/Deductive planning.pdf",
+            "type": "pdf",
+            "pageCount": 19,
+            "lineCount": 0
+          },
+          {
+            "name": "Exercise Propositional Logic.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/02 - Module 2 (Logic & Deductive Planning)/Exercise Propositional Logic.pdf",
+            "type": "pdf",
+            "pageCount": 5,
+            "lineCount": 0
+          },
+          {
+            "name": "FirstOrderLogic_Exercises.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/02 - Module 2 (Logic & Deductive Planning)/FirstOrderLogic_Exercises.pdf",
+            "type": "pdf",
+            "pageCount": 16,
+            "lineCount": 0
+          }
+        ],
+        "totalPages": 251,
+        "totalLines": 0
+      },
+      {
+        "name": "03 - Module 3 (Probabilistic Reasoning & Uncertainty)",
+        "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/03 - Module 3 (Probabilistic Reasoning & Uncertainty)",
+        "files": [
+          {
+            "name": "Excercise-FAIKR_M3_course_slides_2026-no-sol.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/03 - Module 3 (Probabilistic Reasoning & Uncertainty)/Excercise-FAIKR_M3_course_slides_2026-no-sol.pdf",
+            "type": "pdf",
+            "pageCount": 14,
+            "lineCount": 0
+          },
+          {
+            "name": "Excercise-FAIKR_M3_course_slides_2026.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/03 - Module 3 (Probabilistic Reasoning & Uncertainty)/Excercise-FAIKR_M3_course_slides_2026.pdf",
+            "type": "pdf",
+            "pageCount": 46,
+            "lineCount": 0
+          },
+          {
+            "name": "FAIKR_M3_course_slides_2026-lecture3.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/03 - Module 3 (Probabilistic Reasoning & Uncertainty)/FAIKR_M3_course_slides_2026-lecture3.pdf",
+            "type": "pdf",
+            "pageCount": 99,
+            "lineCount": 0
+          },
+          {
+            "name": "FAIKR_M3_course_slides_2026-no-sol.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/03 - Module 3 (Probabilistic Reasoning & Uncertainty)/FAIKR_M3_course_slides_2026-no-sol.pdf",
+            "type": "pdf",
+            "pageCount": 48,
+            "lineCount": 0
+          },
+          {
+            "name": "Lecture0-FAIKR_M3_course_slides_2026.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/03 - Module 3 (Probabilistic Reasoning & Uncertainty)/Lecture0-FAIKR_M3_course_slides_2026.pdf",
+            "type": "pdf",
+            "pageCount": 9,
+            "lineCount": 0
+          },
+          {
+            "name": "Lecture1-FAIKR_M3_course_slides_2026.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/03 - Module 3 (Probabilistic Reasoning & Uncertainty)/Lecture1-FAIKR_M3_course_slides_2026.pdf",
+            "type": "pdf",
+            "pageCount": 71,
+            "lineCount": 0
+          },
+          {
+            "name": "Lecture2-FAIKR_M3_course_slides_2025.pdf",
+            "path": "Fundamentals of Artificial Intelligence and Knowledge Representation/03 - Module 3 (Probabilistic Reasoning & Uncertainty)/Lecture2-FAIKR_M3_course_slides_2025.pdf",
+            "type": "pdf",
+            "pageCount": 72,
+            "lineCount": 0
+          }
+        ],
+        "totalPages": 359,
+        "totalLines": 0
+      }
+    ],
+    "totalFiles": 14,
+    "totalPages": 610,
+    "totalLines": 0
+  },
+  {
+    "id": "statmath",
+    "title": "Statistical & Mathematical Methods for AI (SMMAI)",
+    "path": "Statistical and Mathematical Methods for Artificial Intelligence",
+    "priority": 4,
+    "nearestExam": "Feb 5, 2027 (Written Exam)",
+    "cfu": 6,
+    "category": "Math Foundation",
+    "modules": [
+      {
+        "name": "01 - Reference & Cheatsheets",
+        "path": "Statistical and Mathematical Methods for Artificial Intelligence/01 - Reference & Cheatsheets",
+        "files": [
+          {
+            "name": "StatMathAI-CheatSheet.pdf",
+            "path": "Statistical and Mathematical Methods for Artificial Intelligence/01 - Reference & Cheatsheets/StatMathAI-CheatSheet.pdf",
+            "type": "pdf",
+            "pageCount": 3,
+            "lineCount": 0
+          }
+        ],
+        "totalPages": 3,
+        "totalLines": 0
+      },
+      {
+        "name": "02 - Exercises",
+        "path": "Statistical and Mathematical Methods for Artificial Intelligence/02 - Exercises",
+        "files": [
+          {
+            "name": "Exercises-21-10.pdf",
+            "path": "Statistical and Mathematical Methods for Artificial Intelligence/02 - Exercises/Exercises-21-10.pdf",
+            "type": "pdf",
+            "pageCount": 8,
+            "lineCount": 0
+          },
+          {
+            "name": "StatMathAI- Exercises.pdf",
+            "path": "Statistical and Mathematical Methods for Artificial Intelligence/02 - Exercises/StatMathAI- Exercises.pdf",
+            "type": "pdf",
+            "pageCount": 16,
+            "lineCount": 0
+          },
+          {
+            "name": "StatMathAI-SupEx-PCA.pdf",
+            "path": "Statistical and Mathematical Methods for Artificial Intelligence/02 - Exercises/StatMathAI-SupEx-PCA.pdf",
+            "type": "pdf",
+            "pageCount": 3,
+            "lineCount": 0
+          },
+          {
+            "name": "StatMathAI-SupEx.pdf",
+            "path": "Statistical and Mathematical Methods for Artificial Intelligence/02 - Exercises/StatMathAI-SupEx.pdf",
+            "type": "pdf",
+            "pageCount": 5,
+            "lineCount": 0
+          },
+          {
+            "name": "StatMathAI-SuppEx_introStat.pdf",
+            "path": "Statistical and Mathematical Methods for Artificial Intelligence/02 - Exercises/StatMathAI-SuppEx_introStat.pdf",
+            "type": "pdf",
+            "pageCount": 3,
+            "lineCount": 0
+          }
+        ],
+        "totalPages": 35,
+        "totalLines": 0
+      },
+      {
+        "name": "03 - Lecture Notes",
+        "path": "Statistical and Mathematical Methods for Artificial Intelligence/03 - Lecture Notes",
+        "files": [
+          {
+            "name": "Note-20-10.pdf",
+            "path": "Statistical and Mathematical Methods for Artificial Intelligence/03 - Lecture Notes/Note-20-10.pdf",
+            "type": "pdf",
+            "pageCount": 3,
+            "lineCount": 0
+          },
+          {
+            "name": "Note-21-10.pdf",
+            "path": "Statistical and Mathematical Methods for Artificial Intelligence/03 - Lecture Notes/Note-21-10.pdf",
+            "type": "pdf",
+            "pageCount": 2,
+            "lineCount": 0
+          }
+        ],
+        "totalPages": 5,
+        "totalLines": 0
+      },
+      {
+        "name": "04 - Solutions",
+        "path": "Statistical and Mathematical Methods for Artificial Intelligence/04 - Solutions",
+        "files": [
+          {
+            "name": "Solutions 22-09.pdf",
+            "path": "Statistical and Mathematical Methods for Artificial Intelligence/04 - Solutions/Solutions 22-09.pdf",
+            "type": "pdf",
+            "pageCount": 12,
+            "lineCount": 0
+          },
+          {
+            "name": "Solutions-13-10.pdf",
+            "path": "Statistical and Mathematical Methods for Artificial Intelligence/04 - Solutions/Solutions-13-10.pdf",
+            "type": "pdf",
+            "pageCount": 15,
+            "lineCount": 0
+          },
+          {
+            "name": "Solutions-16-09.pdf",
+            "path": "Statistical and Mathematical Methods for Artificial Intelligence/04 - Solutions/Solutions-16-09.pdf",
+            "type": "pdf",
+            "pageCount": 12,
+            "lineCount": 0
+          },
+          {
+            "name": "Solutions-27-10-b.pdf",
+            "path": "Statistical and Mathematical Methods for Artificial Intelligence/04 - Solutions/Solutions-27-10-b.pdf",
+            "type": "pdf",
+            "pageCount": 4,
+            "lineCount": 0
+          },
+          {
+            "name": "Solutions-27-10.pdf",
+            "path": "Statistical and Mathematical Methods for Artificial Intelligence/04 - Solutions/Solutions-27-10.pdf",
+            "type": "pdf",
+            "pageCount": 4,
+            "lineCount": 0
+          },
+          {
+            "name": "Solutions-28-10.pdf",
+            "path": "Statistical and Mathematical Methods for Artificial Intelligence/04 - Solutions/Solutions-28-10.pdf",
+            "type": "pdf",
+            "pageCount": 17,
+            "lineCount": 0
+          },
+          {
+            "name": "Solutions-29-09.pdf",
+            "path": "Statistical and Mathematical Methods for Artificial Intelligence/04 - Solutions/Solutions-29-09.pdf",
+            "type": "pdf",
+            "pageCount": 26,
+            "lineCount": 0
+          },
+          {
+            "name": "Solutions-Sep15-2026.pdf",
+            "path": "Statistical and Mathematical Methods for Artificial Intelligence/04 - Solutions/Solutions-Sep15-2026.pdf",
+            "type": "pdf",
+            "pageCount": 7,
+            "lineCount": 0
+          },
+          {
+            "name": "Solutions38-44.pdf",
+            "path": "Statistical and Mathematical Methods for Artificial Intelligence/04 - Solutions/Solutions38-44.pdf",
+            "type": "pdf",
+            "pageCount": 15,
+            "lineCount": 0
+          }
+        ],
+        "totalPages": 112,
+        "totalLines": 0
+      }
+    ],
+    "totalFiles": 17,
+    "totalPages": 155,
+    "totalLines": 0
+  },
+  {
+    "id": "ilai",
+    "title": "Introduction to Languages for AI (ILAI)",
+    "path": "Introduction to Languages for Artificial Intelligence",
+    "priority": 5,
+    "nearestExam": "Feb 18, 2027 (Lab & Theory Exam)",
+    "cfu": 6,
+    "category": "Lab & Theory",
+    "modules": [
+      {
+        "name": "01 - Logic & Theory Lectures",
+        "path": "Introduction to Languages for Artificial Intelligence/01 - Logic & Theory Lectures",
+        "files": [
+          {
+            "name": "1.Intro.Logica  -  Compatibility Mode.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/01 - Logic & Theory Lectures/1.Intro.Logica  -  Compatibility Mode.pdf",
+            "type": "pdf",
+            "pageCount": 84,
+            "lineCount": 0
+          },
+          {
+            "name": "10.Neurosymbolic.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/01 - Logic & Theory Lectures/10.Neurosymbolic.pdf",
+            "type": "pdf",
+            "pageCount": 15,
+            "lineCount": 0
+          },
+          {
+            "name": "2.Truth.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/01 - Logic & Theory Lectures/2.Truth.pdf",
+            "type": "pdf",
+            "pageCount": 15,
+            "lineCount": 0
+          },
+          {
+            "name": "3.Propositional_Logic.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/01 - Logic & Theory Lectures/3.Propositional_Logic.pdf",
+            "type": "pdf",
+            "pageCount": 97,
+            "lineCount": 0
+          },
+          {
+            "name": "4.Resolution_PL.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/01 - Logic & Theory Lectures/4.Resolution_PL.pdf",
+            "type": "pdf",
+            "pageCount": 9,
+            "lineCount": 0
+          },
+          {
+            "name": "5.First_Order_Logic.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/01 - Logic & Theory Lectures/5.First_Order_Logic.pdf",
+            "type": "pdf",
+            "pageCount": 71,
+            "lineCount": 0
+          },
+          {
+            "name": "6.LP.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/01 - Logic & Theory Lectures/6.LP.pdf",
+            "type": "pdf",
+            "pageCount": 26,
+            "lineCount": 0
+          },
+          {
+            "name": "7.Prolog.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/01 - Logic & Theory Lectures/7.Prolog.pdf",
+            "type": "pdf",
+            "pageCount": 41,
+            "lineCount": 0
+          },
+          {
+            "name": "8.Constraint_Programming_I.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/01 - Logic & Theory Lectures/8.Constraint_Programming_I.pdf",
+            "type": "pdf",
+            "pageCount": 43,
+            "lineCount": 0
+          },
+          {
+            "name": "9.MiniZinc.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/01 - Logic & Theory Lectures/9.MiniZinc.pdf",
+            "type": "pdf",
+            "pageCount": 28,
+            "lineCount": 0
+          }
+        ],
+        "totalPages": 429,
+        "totalLines": 0
+      },
+      {
+        "name": "02 - Python Lectures",
+        "path": "Introduction to Languages for Artificial Intelligence/02 - Python Lectures",
+        "files": [
+          {
+            "name": "6 - NumPy lab.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/02 - Python Lectures/6 - NumPy lab.pdf",
+            "type": "pdf",
+            "pageCount": 20,
+            "lineCount": 0
+          },
+          {
+            "name": "L1.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/02 - Python Lectures/L1.pdf",
+            "type": "pdf",
+            "pageCount": 69,
+            "lineCount": 0
+          },
+          {
+            "name": "L2-3.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/02 - Python Lectures/L2-3.pdf",
+            "type": "pdf",
+            "pageCount": 105,
+            "lineCount": 0
+          },
+          {
+            "name": "L4.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/02 - Python Lectures/L4.pdf",
+            "type": "pdf",
+            "pageCount": 81,
+            "lineCount": 0
+          },
+          {
+            "name": "L5.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/02 - Python Lectures/L5.pdf",
+            "type": "pdf",
+            "pageCount": 66,
+            "lineCount": 0
+          },
+          {
+            "name": "L6.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/02 - Python Lectures/L6.pdf",
+            "type": "pdf",
+            "pageCount": 60,
+            "lineCount": 0
+          },
+          {
+            "name": "L7.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/02 - Python Lectures/L7.pdf",
+            "type": "pdf",
+            "pageCount": 63,
+            "lineCount": 0
+          },
+          {
+            "name": "L8.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/02 - Python Lectures/L8.pdf",
+            "type": "pdf",
+            "pageCount": 110,
+            "lineCount": 0
+          },
+          {
+            "name": "L9.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/02 - Python Lectures/L9.pdf",
+            "type": "pdf",
+            "pageCount": 97,
+            "lineCount": 0
+          }
+        ],
+        "totalPages": 671,
+        "totalLines": 0
+      },
+      {
+        "name": "03 - Lab Notes",
+        "path": "Introduction to Languages for Artificial Intelligence/03 - Lab Notes",
+        "files": [
+          {
+            "name": "lab1_notes.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/03 - Lab Notes/lab1_notes.pdf",
+            "type": "pdf",
+            "pageCount": 49,
+            "lineCount": 0
+          },
+          {
+            "name": "lab2_notes.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/03 - Lab Notes/lab2_notes.pdf",
+            "type": "pdf",
+            "pageCount": 13,
+            "lineCount": 0
+          },
+          {
+            "name": "lab3_notes.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/03 - Lab Notes/lab3_notes.pdf",
+            "type": "pdf",
+            "pageCount": 18,
+            "lineCount": 0
+          },
+          {
+            "name": "lab4_notes.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/03 - Lab Notes/lab4_notes.pdf",
+            "type": "pdf",
+            "pageCount": 15,
+            "lineCount": 0
+          },
+          {
+            "name": "lab5_notes.pdf",
+            "path": "Introduction to Languages for Artificial Intelligence/03 - Lab Notes/lab5_notes.pdf",
+            "type": "pdf",
+            "pageCount": 16,
+            "lineCount": 0
+          }
+        ],
+        "totalPages": 111,
+        "totalLines": 0
+      },
+      {
+        "name": "04 - Lab 02-03 Code",
+        "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 02-03 Code",
+        "files": [
+          {
+            "name": "comparisons.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 02-03 Code/comparisons.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 181
+          },
+          {
+            "name": "function.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 02-03 Code/function.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 19
+          },
+          {
+            "name": "function2.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 02-03 Code/function2.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 53
+          },
+          {
+            "name": "function2b.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 02-03 Code/function2b.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 22
+          },
+          {
+            "name": "function2c.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 02-03 Code/function2c.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 31
+          },
+          {
+            "name": "function3.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 02-03 Code/function3.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 40
+          },
+          {
+            "name": "introrange.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 02-03 Code/introrange.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 33
+          },
+          {
+            "name": "isclose.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 02-03 Code/isclose.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 7
+          },
+          {
+            "name": "isequal.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 02-03 Code/isequal.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 12
+          },
+          {
+            "name": "metods_shell.txt",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 02-03 Code/metods_shell.txt",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 64
+          },
+          {
+            "name": "tuples.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 02-03 Code/tuples.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 6
+          }
+        ],
+        "totalPages": 0,
+        "totalLines": 468
+      },
+      {
+        "name": "05 - Lab 04 Code",
+        "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 04 Code",
+        "files": [
+          {
+            "name": "aliasing_example.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 04 Code/aliasing_example.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 19
+          },
+          {
+            "name": "augmented.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 04 Code/augmented.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 22
+          },
+          {
+            "name": "del.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 04 Code/del.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 15
+          },
+          {
+            "name": "double.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 04 Code/double.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 14
+          },
+          {
+            "name": "floyd.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 04 Code/floyd.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 10
+          },
+          {
+            "name": "infiniteloop.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 04 Code/infiniteloop.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 12
+          },
+          {
+            "name": "inser.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 04 Code/inser.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 6
+          },
+          {
+            "name": "inserimento-in-lista-ord.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 04 Code/inserimento-in-lista-ord.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 34
+          },
+          {
+            "name": "listinput.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 04 Code/listinput.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 6
+          },
+          {
+            "name": "palindromic.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 04 Code/palindromic.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 50
+          },
+          {
+            "name": "removezero.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 04 Code/removezero.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 40
+          },
+          {
+            "name": "slice_shallow.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 04 Code/slice_shallow.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 29
+          },
+          {
+            "name": "sorted.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 04 Code/sorted.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 10
+          },
+          {
+            "name": "while.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 04 Code/while.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 34
+          }
+        ],
+        "totalPages": 0,
+        "totalLines": 301
+      },
+      {
+        "name": "06 - Lab 05 Code",
+        "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 05 Code",
+        "files": [
+          {
+            "name": "compreh_exercises.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 05 Code/compreh_exercises.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 106
+          },
+          {
+            "name": "comprehension.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 05 Code/comprehension.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 12
+          },
+          {
+            "name": "generators_ex.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 05 Code/generators_ex.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 67
+          },
+          {
+            "name": "letter_counting_dict.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 05 Code/letter_counting_dict.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 17
+          },
+          {
+            "name": "letter_counting_naive.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 05 Code/letter_counting_naive.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 22
+          },
+          {
+            "name": "search-rec.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 05 Code/search-rec.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 32
+          },
+          {
+            "name": "viewobjects.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 05 Code/viewobjects.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 28
+          }
+        ],
+        "totalPages": 0,
+        "totalLines": 284
+      },
+      {
+        "name": "07 - Lab 06 Code",
+        "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 06 Code",
+        "files": [
+          {
+            "name": "Augmented.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 06 Code/Augmented.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 32
+          },
+          {
+            "name": "coin.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 06 Code/coin.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 11
+          },
+          {
+            "name": "mycoin.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 06 Code/mycoin.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 14
+          },
+          {
+            "name": "myPoint.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 06 Code/myPoint.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 36
+          },
+          {
+            "name": "myT.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 06 Code/myT.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 5
+          },
+          {
+            "name": "nestedclass-simple.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 06 Code/nestedclass-simple.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 22
+          },
+          {
+            "name": "private.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 06 Code/private.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 13
+          },
+          {
+            "name": "SetItemExample-slice.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 06 Code/SetItemExample-slice.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 30
+          },
+          {
+            "name": "SetItemExample.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 06 Code/SetItemExample.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 29
+          }
+        ],
+        "totalPages": 0,
+        "totalLines": 192
+      },
+      {
+        "name": "08 - Lab 07 Code",
+        "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 07 Code",
+        "files": [
+          {
+            "name": "abclass.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 07 Code/abclass.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 20
+          },
+          {
+            "name": "colored point.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 07 Code/colored point.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 29
+          },
+          {
+            "name": "delegate.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 07 Code/delegate.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 8
+          },
+          {
+            "name": "diamond.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 07 Code/diamond.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 18
+          },
+          {
+            "name": "dyn.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 07 Code/dyn.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 11
+          },
+          {
+            "name": "even.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 07 Code/even.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 16
+          },
+          {
+            "name": "iterable.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 07 Code/iterable.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 29
+          },
+          {
+            "name": "iterator.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 07 Code/iterator.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 31
+          },
+          {
+            "name": "list-subclass.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 07 Code/list-subclass.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 9
+          },
+          {
+            "name": "mrono.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 07 Code/mrono.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 10
+          },
+          {
+            "name": "mult.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 07 Code/mult.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 12
+          },
+          {
+            "name": "multiple.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 07 Code/multiple.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 16
+          },
+          {
+            "name": "newpoint.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 07 Code/newpoint.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 19
+          },
+          {
+            "name": "super.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 07 Code/super.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 13
+          }
+        ],
+        "totalPages": 0,
+        "totalLines": 241
+      },
+      {
+        "name": "09 - Lab 08 Code",
+        "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 08 Code",
+        "files": [
+          {
+            "name": "first-example.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 08 Code/first-example.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 8
+          },
+          {
+            "name": "input.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 08 Code/input.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 8
+          },
+          {
+            "name": "inputnums.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 08 Code/inputnums.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 18
+          },
+          {
+            "name": "nestedloop.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 08 Code/nestedloop.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 12
+          },
+          {
+            "name": "raising exceptions.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 08 Code/raising exceptions.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 9
+          },
+          {
+            "name": "recprod.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 08 Code/recprod.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 58
+          },
+          {
+            "name": "second.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 08 Code/second.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 5
+          },
+          {
+            "name": "simplecomplexity.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 08 Code/simplecomplexity.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 31
+          },
+          {
+            "name": "stack.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 08 Code/stack.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 13
+          },
+          {
+            "name": "subclasses.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 08 Code/subclasses.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 9
+          },
+          {
+            "name": "value.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 08 Code/value.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 4
+          },
+          {
+            "name": "zero 2.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 08 Code/zero 2.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 14
+          },
+          {
+            "name": "zero.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 08 Code/zero.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 11
+          }
+        ],
+        "totalPages": 0,
+        "totalLines": 200
+      },
+      {
+        "name": "010 - Lab 09 Code",
+        "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 09 Code",
+        "files": [
+          {
+            "name": "0_lez-1-1.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 09 Code/0_lez-1-1.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 30
+          },
+          {
+            "name": "0_newaxis.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 09 Code/0_newaxis.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 4
+          },
+          {
+            "name": "1_shapes_dimensions.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 09 Code/1_shapes_dimensions.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 9
+          },
+          {
+            "name": "2_broadcasting.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 09 Code/2_broadcasting.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 15
+          },
+          {
+            "name": "3_slice_and_views.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 09 Code/3_slice_and_views.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 16
+          },
+          {
+            "name": "4_boolean_indexing.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 09 Code/4_boolean_indexing.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 13
+          },
+          {
+            "name": "5_array_indexing.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 09 Code/5_array_indexing.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 33
+          },
+          {
+            "name": "6_axes_and_reductions.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 09 Code/6_axes_and_reductions.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 30
+          },
+          {
+            "name": "7_traspose_reshape.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 09 Code/7_traspose_reshape.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 16
+          },
+          {
+            "name": "8_unfunc.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 09 Code/8_unfunc.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 36
+          },
+          {
+            "name": "a_numpy_merge.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 09 Code/a_numpy_merge.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 46
+          },
+          {
+            "name": "b_lez-1.py",
+            "path": "Introduction to Languages for Artificial Intelligence/04 - Lab Code & Files/Lab 09 Code/b_lez-1.py",
+            "type": "code",
+            "pageCount": 0,
+            "lineCount": 45
+          }
+        ],
+        "totalPages": 0,
+        "totalLines": 293
+      }
+    ],
+    "totalFiles": 104,
+    "totalPages": 1211,
+    "totalLines": 1979
+  }
+]

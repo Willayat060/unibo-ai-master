@@ -1,0 +1,31 @@
+{
+  "version": 4,
+  "completed": {
+    "Fundamentals of Artificial Intelligence and Knowledge Representation/00 - Course Info & Exams/0-CoursePresentation.pdf": true,
+    "Fundamentals of Artificial Intelligence and Knowledge Representation/00 - Course Info & Exams/Exam.pdf": true,
+    "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/1-IntroCorsoMichelaFirstPart.pdf": true,
+    "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/2-ArtificialIntelligenceApplications.pdf": true,
+    "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/5-StriRicInf.it.en.pdf": true,
+    "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/10-exerciseGames.pdf": true,
+    "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/13-Constraints.pdf": true,
+    "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/3-Trustworthy.pdf": true,
+    "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/4-StriRicNonInf.it.en.pdf": true,
+    "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/6-ExercisesStrategies.pdf": true,
+    "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/7-LocalSearchEng.pdf": true,
+    "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/8-SwarmIntelligence.it.en.pdf": true,
+    "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/9-Games.pdf": true,
+    "Machine Learning and Data Mining M - Machine Learning and Data Mining/02 - Data Mining Lectures/00-MLDM-Intro.pdf": true,
+    "Machine Learning and Data Mining M - Machine Learning and Data Mining/02 - Data Mining Lectures/01-DM-intro.pdf": true,
+    "Machine Learning and Data Mining M - Machine Learning and Data Mining/02 - Data Mining Lectures/02-DM-data-warehouse-nordicmart-cube.html": true,
+    "Machine Learning and Data Mining M - Machine Learning and Data Mining/02 - Data Mining Lectures/02-DM-data-warehouse.pdf": true
+  },
+  "notes": {
+    "Fundamentals of Artificial Intelligence and Knowledge Representation/01 - Module 1 (Search, Games & Constraints)/5-StriRicInf.it.en.pdf": "Review slide 8: Best-First Search and slide 9: failure of optimality without admissibility."
+  },
+  "starred": {},
+  "studyTimeMinutes": 185,
+  "studyStreak": 1,
+  "selectedModel": "gemini-3.5-flash-lite",
+  "lastActiveDate": "2026-11-14",
+  "lastUpdated": "2026-11-14T10:33:44.858Z"
+}

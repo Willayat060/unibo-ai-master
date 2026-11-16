@@ -1,0 +1,13 @@
+{
+  "name": "unibo-study-app",
+  "version": "1.0.0",
+  "description": "Interactive Study Hub, PDF Reader, Progress Tracker, and Gemini AI Strategy Coach for UniBo Master in AI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["unibo", "ai", "study-hub", "gemini-coach"],
+  "author": "Wilayat Hussain",
+  "license": "MIT"
+}
+

@@ -1,0 +1,19 @@
+{
+  "name": "unibo-ai-master-hub",
+  "version": "1.0.0",
+  "description": "Tactical Study Hub, Slide Reader, Revision Engine & Gemini Copilot for UniBo Master in AI",
+  "main": "UniBo-Study-App/server.js",
+  "scripts": {
+    "start": "node UniBo-Study-App/server.js",
+    "dev": "node UniBo-Study-App/server.js",
+    "tunnel": "npx localtunnel --port 3000"
+  },
+  "keywords": [
+    "unibo",
+    "artificial-intelligence",
+    "study-hub",
+    "gemini"
+  ],
+  "author": "Wilayat Hussain",
+  "license": "MIT"
+}
